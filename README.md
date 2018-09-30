@@ -1,2 +1,3 @@
-# Sweepergame
-Sweeper game with GUI, Java
+# my_projects
+Игра минер созданная по видеоуроку ITVDN
+Game - Sweeper
